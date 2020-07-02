@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>话题详情</title>
-    <link rel="stylesheet" type="text/css" href="/css/all.css">
     <link rel="stylesheet" type="text/css" href="/css/min.css">
     <link rel="stylesheet" type="text/css" href="/css/list.min.css">
 </head>
