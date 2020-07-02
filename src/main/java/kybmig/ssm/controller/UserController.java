@@ -147,7 +147,7 @@ public class UserController {
         resetMap.put(token, user.getId());
         if (user.getEmail() != null) {
             asyncTask.sendMail(user.getEmail(), "密码重置确认",
-                    String.format("请点击连接完成重置, http://localhost:9000/reset/view?token=%s", token)
+                    String.format("请复制访问请求完成重置, http://106.54.164.16/reset/view?token=%s", token)
             );
             return new ModelAndView("reset_send");
         } else {
