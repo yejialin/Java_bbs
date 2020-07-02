@@ -21,11 +21,11 @@
 
 ## 详细
 ### 登录与话题操作
-![avatar](topic.gif)
+![登录与话题操作](topic.gif)
 
 ### 个人主页与设置
-![avatar](home.gif)
+![个人主页与设置](home.gif)
 
 ### 找回密码示例
-![avatar](findPassword.gif)
+![找回密码示例](findPassword.gif)
 
