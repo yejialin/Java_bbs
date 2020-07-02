@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: kybmig.ssm.SsmApplication
+Spring-Boot-Version: 2.1.7.RELEASE
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+

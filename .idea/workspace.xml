@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7943fa41-be54-4c8a-a52b-62fa73960c89" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ssm" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ssm" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ssm" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ssm: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ssm" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ssm: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="topic: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ssm" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ssm: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="808c7f55-8fe5-4126-b4f7-c45b4b1c513b" />
+    </checked>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ssm" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ssm" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="TodoTxt" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dDd5RJfPt8LIY2iU2jdCL1sQln" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hive&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/images" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\java_bbs\src\main\resources\static" />
+      <recent name="C:\Users\Administrator\Desktop\java_bbs\src\main\resources\avatar.jpg" />
+      <recent name="C:\Users\Administrator\Desktop\java_bbs\src\main\resources\static\image" />
+      <recent name="C:\Users\Administrator\Desktop\java_bbs\src\main\resources\static\css" />
+      <recent name="C:\Users\Administrator\Desktop\web19_22_板书\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kybmig.ssm.service" />
+      <recent name="kybmig.ssm.controller" />
+      <recent name="kybmig.ssm.mapper" />
+      <recent name="kybmig.ssm.model" />
+      <recent name="kybmig.ssm.aspect" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\java_bbs\src\main\resources\static\images" />
+      <recent name="C:\Users\Administrator\Desktop\java_bbs\src\main\resources\static" />
+      <recent name="C:\Users\Administrator\Desktop\web19_22_板书\src\main\resources\templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/java/kybmig/ssm/model" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/actuator/heapdump" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/actuator/info" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/vnd.spring-boot.actuator.v2+json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/demo" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.ssm [build]">
+    <configuration name="ssm [build]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SsmDevelopment" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ssm.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kybmig.ssm.SsmApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.ssm [build]" />
+      <item itemvalue="Spring Boot.SsmDevelopment" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7943fa41-be54-4c8a-a52b-62fa73960c89" name="Default Changelist" comment="" />
+      <created>1565860104706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565860104706</updated>
+      <workItem from="1565860108453" duration="12414000" />
+      <workItem from="1565872575440" duration="19813000" />
+      <workItem from="1572706682557" duration="174000" />
+      <workItem from="1572706901411" duration="21083000" />
+      <workItem from="1572828335613" duration="14370000" />
+      <workItem from="1572855464152" duration="1547000" />
+      <workItem from="1585838683091" duration="571000" />
+      <workItem from="1585911453853" duration="16422000" />
+      <workItem from="1586343779268" duration="11697000" />
+      <workItem from="1591963414751" duration="708000" />
+      <workItem from="1591964316814" duration="3473000" />
+      <workItem from="1591967818621" duration="15000" />
+      <workItem from="1591967859299" duration="2594000" />
+      <workItem from="1591970473943" duration="2000" />
+      <workItem from="1592220099679" duration="8893000" />
+      <workItem from="1592376916386" duration="1960000" />
+      <workItem from="1592565213615" duration="8412000" />
+      <workItem from="1592764749346" duration="6566000" />
+      <workItem from="1593309095934" duration="28000" />
+      <workItem from="1593309382904" duration="995000" />
+      <workItem from="1593310453090" duration="20418000" />
+      <workItem from="1593503986591" duration="1258000" />
+      <workItem from="1593536643071" duration="735000" />
+      <workItem from="1593573032849" duration="1705000" />
+      <workItem from="1593587078437" duration="21224000" />
+      <workItem from="1593611091136" duration="7327000" />
+      <workItem from="1593626211754" duration="7566000" />
+    </task>
+    <task id="LOCAL-00001" summary="包的 ssm 项目初始化">
+      <created>1572706994979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572706994980</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修正 properties 的编码问题, 改成 utf-8">
+      <created>1572707239294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572707239294</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改密码&#10;加入服务器端口设定">
+      <created>1572708889819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572708889819</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加 TodoService">
+      <created>1572709825526</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572709825526</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加 BlogController 的 增, 改, detail&#10;增加 BlogService 的增删改">
+      <created>1572769754686</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572769754686</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完成用户注册登录和用户首页">
+      <created>1572788760401</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572788760401</updated>
+    </task>
+    <task id="LOCAL-00007" summary="txt 版本的 spring mvc 框架">
+      <created>1572793408011</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572793408011</updated>
+    </task>
+    <task id="LOCAL-00008" summary="sql 怎么增加删除">
+      <created>1572797579218</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572797579218</updated>
+    </task>
+    <task id="LOCAL-00009" summary="解决课 18 中文编码和时区问题">
+      <created>1585993869366</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585993869366</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ssm_[test] - 2019.08.16 at 02h 23m 17s.xml">
+      <configuration name="ssm [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="C:" />
+      <path value="$USER_HOME$" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="包的 ssm 项目初始化" />
+    <MESSAGE value="修正 properties 的编码问题, 改成 utf-8" />
+    <MESSAGE value="修改密码&#10;加入服务器端口设定" />
+    <MESSAGE value="增加 TodoService" />
+    <MESSAGE value="增加 BlogController 的 增, 改, detail&#10;增加 BlogService 的增删改" />
+    <MESSAGE value="完成用户注册登录和用户首页" />
+    <MESSAGE value="txt 版本的 spring mvc 框架" />
+    <MESSAGE value="sql 怎么增加删除" />
+    <MESSAGE value="解决课 18 中文编码和时区问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="解决课 18 中文编码和时区问题" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1592227041230">
+      <screen x="50" y="23" width="2510" height="1417" />
+    </state>
+    <state x="344" y="81" key="#com.intellij.ide.util.MemberChooser/81.-1057.1920.1057/50.23.2510.1417@50.23.2510.1417" timestamp="1592227041230" />
+    <state x="355" y="81" key="#com.intellij.ide.util.MemberChooser/81.-1057.1920.1057/62.23.2498.1417@62.23.2498.1417" timestamp="1591967988976" />
+    <state x="357" y="81" key="#com.intellij.ide.util.MemberChooser/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1591965418654" />
+    <state width="913" height="167" key="GridCell.Tab.0.bottom" timestamp="1592573267230">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="896" height="506" key="GridCell.Tab.0.bottom/44.23.1876.1057@44.23.1876.1057" timestamp="1592377138337" />
+    <state width="896" height="506" key="GridCell.Tab.0.bottom/45.23.1875.1057@45.23.1875.1057" timestamp="1592382386852" />
+    <state width="934" height="322" key="GridCell.Tab.0.bottom/81.-1057.1920.1057/50.23.2510.1417@50.23.2510.1417" timestamp="1592227876773" />
+    <state width="913" height="167" key="GridCell.Tab.0.bottom/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573267230" />
+    <state width="981" height="105" key="GridCell.Tab.0.bottom/81.-1057.1920.1057/60.23.2500.1417@60.23.2500.1417" timestamp="1591970460864" />
+    <state width="914" height="143" key="GridCell.Tab.0.bottom/81.-1057.1920.1057/62.23.2498.1417@62.23.2498.1417" timestamp="1591966477567" />
+    <state width="914" height="341" key="GridCell.Tab.0.bottom/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1591965289495" />
+    <state width="1205" height="692" key="GridCell.Tab.0.bottom/81.-1057.1920.1057/66.23.2494.1417@66.23.2494.1417" timestamp="1591963477855" />
+    <state width="913" height="167" key="GridCell.Tab.0.center" timestamp="1592573267229">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="896" height="506" key="GridCell.Tab.0.center/44.23.1876.1057@44.23.1876.1057" timestamp="1592377138336" />
+    <state width="896" height="506" key="GridCell.Tab.0.center/45.23.1875.1057@45.23.1875.1057" timestamp="1592382386851" />
+    <state width="934" height="322" key="GridCell.Tab.0.center/81.-1057.1920.1057/50.23.2510.1417@50.23.2510.1417" timestamp="1592227876772" />
+    <state width="913" height="167" key="GridCell.Tab.0.center/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573267229" />
+    <state width="981" height="105" key="GridCell.Tab.0.center/81.-1057.1920.1057/60.23.2500.1417@60.23.2500.1417" timestamp="1591970460863" />
+    <state width="914" height="143" key="GridCell.Tab.0.center/81.-1057.1920.1057/62.23.2498.1417@62.23.2498.1417" timestamp="1591966477567" />
+    <state width="914" height="341" key="GridCell.Tab.0.center/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1591965289495" />
+    <state width="1205" height="692" key="GridCell.Tab.0.center/81.-1057.1920.1057/66.23.2494.1417@66.23.2494.1417" timestamp="1591963477854" />
+    <state width="913" height="167" key="GridCell.Tab.0.left" timestamp="1592573267229">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="896" height="506" key="GridCell.Tab.0.left/44.23.1876.1057@44.23.1876.1057" timestamp="1592377138336" />
+    <state width="896" height="506" key="GridCell.Tab.0.left/45.23.1875.1057@45.23.1875.1057" timestamp="1592382386851" />
+    <state width="934" height="322" key="GridCell.Tab.0.left/81.-1057.1920.1057/50.23.2510.1417@50.23.2510.1417" timestamp="1592227876772" />
+    <state width="913" height="167" key="GridCell.Tab.0.left/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573267229" />
+    <state width="981" height="105" key="GridCell.Tab.0.left/81.-1057.1920.1057/60.23.2500.1417@60.23.2500.1417" timestamp="1591970460863" />
+    <state width="914" height="143" key="GridCell.Tab.0.left/81.-1057.1920.1057/62.23.2498.1417@62.23.2498.1417" timestamp="1591966477566" />
+    <state width="914" height="341" key="GridCell.Tab.0.left/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1591965289494" />
+    <state width="1205" height="692" key="GridCell.Tab.0.left/81.-1057.1920.1057/66.23.2494.1417@66.23.2494.1417" timestamp="1591963477851" />
+    <state width="913" height="167" key="GridCell.Tab.0.right" timestamp="1592573267230">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="896" height="506" key="GridCell.Tab.0.right/44.23.1876.1057@44.23.1876.1057" timestamp="1592377138337" />
+    <state width="896" height="506" key="GridCell.Tab.0.right/45.23.1875.1057@45.23.1875.1057" timestamp="1592382386851" />
+    <state width="934" height="322" key="GridCell.Tab.0.right/81.-1057.1920.1057/50.23.2510.1417@50.23.2510.1417" timestamp="1592227876773" />
+    <state width="913" height="167" key="GridCell.Tab.0.right/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573267230" />
+    <state width="981" height="105" key="GridCell.Tab.0.right/81.-1057.1920.1057/60.23.2500.1417@60.23.2500.1417" timestamp="1591970460863" />
+    <state width="914" height="143" key="GridCell.Tab.0.right/81.-1057.1920.1057/62.23.2498.1417@62.23.2498.1417" timestamp="1591966477567" />
+    <state width="914" height="341" key="GridCell.Tab.0.right/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1591965289495" />
+    <state width="1205" height="692" key="GridCell.Tab.0.right/81.-1057.1920.1057/66.23.2494.1417@66.23.2494.1417" timestamp="1591963477855" />
+    <state width="913" height="167" key="GridCell.Tab.1.bottom" timestamp="1592573267231">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="896" height="506" key="GridCell.Tab.1.bottom/44.23.1876.1057@44.23.1876.1057" timestamp="1592377138338" />
+    <state width="896" height="506" key="GridCell.Tab.1.bottom/45.23.1875.1057@45.23.1875.1057" timestamp="1592382386853" />
+    <state width="934" height="322" key="GridCell.Tab.1.bottom/81.-1057.1920.1057/50.23.2510.1417@50.23.2510.1417" timestamp="1592227876774" />
+    <state width="913" height="167" key="GridCell.Tab.1.bottom/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573267231" />
+    <state width="981" height="105" key="GridCell.Tab.1.bottom/81.-1057.1920.1057/60.23.2500.1417@60.23.2500.1417" timestamp="1591970460864" />
+    <state width="914" height="143" key="GridCell.Tab.1.bottom/81.-1057.1920.1057/62.23.2498.1417@62.23.2498.1417" timestamp="1591966477568" />
+    <state width="914" height="341" key="GridCell.Tab.1.bottom/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1591965289497" />
+    <state width="1205" height="692" key="GridCell.Tab.1.bottom/81.-1057.1920.1057/66.23.2494.1417@66.23.2494.1417" timestamp="1591963477856" />
+    <state width="913" height="167" key="GridCell.Tab.1.center" timestamp="1592573267230">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="896" height="506" key="GridCell.Tab.1.center/44.23.1876.1057@44.23.1876.1057" timestamp="1592377138338" />
+    <state width="896" height="506" key="GridCell.Tab.1.center/45.23.1875.1057@45.23.1875.1057" timestamp="1592382386852" />
+    <state width="934" height="322" key="GridCell.Tab.1.center/81.-1057.1920.1057/50.23.2510.1417@50.23.2510.1417" timestamp="1592227876773" />
+    <state width="913" height="167" key="GridCell.Tab.1.center/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573267230" />
+    <state width="981" height="105" key="GridCell.Tab.1.center/81.-1057.1920.1057/60.23.2500.1417@60.23.2500.1417" timestamp="1591970460864" />
+    <state width="914" height="143" key="GridCell.Tab.1.center/81.-1057.1920.1057/62.23.2498.1417@62.23.2498.1417" timestamp="1591966477567" />
+    <state width="914" height="341" key="GridCell.Tab.1.center/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1591965289496" />
+    <state width="1205" height="692" key="GridCell.Tab.1.center/81.-1057.1920.1057/66.23.2494.1417@66.23.2494.1417" timestamp="1591963477856" />
+    <state width="913" height="167" key="GridCell.Tab.1.left" timestamp="1592573267230">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="896" height="506" key="GridCell.Tab.1.left/44.23.1876.1057@44.23.1876.1057" timestamp="1592377138337" />
+    <state width="896" height="506" key="GridCell.Tab.1.left/45.23.1875.1057@45.23.1875.1057" timestamp="1592382386852" />
+    <state width="934" height="322" key="GridCell.Tab.1.left/81.-1057.1920.1057/50.23.2510.1417@50.23.2510.1417" timestamp="1592227876773" />
+    <state width="913" height="167" key="GridCell.Tab.1.left/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573267230" />
+    <state width="981" height="105" key="GridCell.Tab.1.left/81.-1057.1920.1057/60.23.2500.1417@60.23.2500.1417" timestamp="1591970460864" />
+    <state width="914" height="143" key="GridCell.Tab.1.left/81.-1057.1920.1057/62.23.2498.1417@62.23.2498.1417" timestamp="1591966477567" />
+    <state width="914" height="341" key="GridCell.Tab.1.left/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1591965289496" />
+    <state width="1205" height="692" key="GridCell.Tab.1.left/81.-1057.1920.1057/66.23.2494.1417@66.23.2494.1417" timestamp="1591963477855" />
+    <state width="913" height="167" key="GridCell.Tab.1.right" timestamp="1592573267230">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="896" height="506" key="GridCell.Tab.1.right/44.23.1876.1057@44.23.1876.1057" timestamp="1592377138338" />
+    <state width="896" height="506" key="GridCell.Tab.1.right/45.23.1875.1057@45.23.1875.1057" timestamp="1592382386852" />
+    <state width="934" height="322" key="GridCell.Tab.1.right/81.-1057.1920.1057/50.23.2510.1417@50.23.2510.1417" timestamp="1592227876774" />
+    <state width="913" height="167" key="GridCell.Tab.1.right/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573267230" />
+    <state width="981" height="105" key="GridCell.Tab.1.right/81.-1057.1920.1057/60.23.2500.1417@60.23.2500.1417" timestamp="1591970460864" />
+    <state width="914" height="143" key="GridCell.Tab.1.right/81.-1057.1920.1057/62.23.2498.1417@62.23.2498.1417" timestamp="1591966477567" />
+    <state width="914" height="341" key="GridCell.Tab.1.right/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1591965289496" />
+    <state width="1205" height="692" key="GridCell.Tab.1.right/81.-1057.1920.1057/66.23.2494.1417@66.23.2494.1417" timestamp="1591963477856" />
+    <state width="913" height="220" key="GridCell.Tab.2.bottom" timestamp="1592573229067">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="913" height="220" key="GridCell.Tab.2.bottom/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573229067" />
+    <state width="913" height="220" key="GridCell.Tab.2.center" timestamp="1592573229066">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="913" height="220" key="GridCell.Tab.2.center/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573229066" />
+    <state width="913" height="220" key="GridCell.Tab.2.left" timestamp="1592573229066">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="913" height="220" key="GridCell.Tab.2.left/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573229066" />
+    <state width="913" height="220" key="GridCell.Tab.2.right" timestamp="1592573229067">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state width="913" height="220" key="GridCell.Tab.2.right/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592573229067" />
+    <state x="60" y="29" key="SettingsEditor" timestamp="1591967799565">
+      <screen x="60" y="23" width="2500" height="1417" />
+    </state>
+    <state x="60" y="29" key="SettingsEditor/81.-1057.1920.1057/60.23.2500.1417@60.23.2500.1417" timestamp="1591967799565" />
+    <state x="195" y="182" key="run.anything.popup" timestamp="1592567257763">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="195" y="182" key="run.anything.popup/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592567257763" />
+    <state x="202" y="177" width="673" height="676" key="search.everywhere.popup" timestamp="1592568758431">
+      <screen x="52" y="23" width="2508" height="1417" />
+    </state>
+    <state x="200" y="177" width="673" height="676" key="search.everywhere.popup/81.-1057.1920.1057/50.23.2510.1417@50.23.2510.1417" timestamp="1592227033646" />
+    <state x="202" y="177" width="673" height="676" key="search.everywhere.popup/81.-1057.1920.1057/52.23.2508.1417@52.23.2508.1417" timestamp="1592568758431" />
+    <state x="209" y="177" width="670" height="676" key="search.everywhere.popup/81.-1057.1920.1057/60.23.2500.1417@60.23.2500.1417" timestamp="1591967033973" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="build" />
+    <option value="compileJava" />
+    <option value="test" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|ssm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

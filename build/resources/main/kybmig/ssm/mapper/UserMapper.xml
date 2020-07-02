@@ -1,0 +1,32 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="kybmig.ssm.mapper.UserMapper">
+    <select id="selectAllUser" resultType="kybmig.ssm.model.UserModel">
+        SELECT * FROM ssm.User
+    </select>
+
+    <select id="selectOne" resultType="kybmig.ssm.model.UserModel">
+        SELECT * FROM ssm.User WHERE id = ${id}
+    </select>
+
+    <select id="selectOneByUsername" resultType="kybmig.ssm.model.UserModel">
+        SELECT * FROM ssm.User WHERE username = #{username}
+    </select>
+
+    <insert id="insertUser" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO ssm.User (username, password, role) VALUES (#{username}, #{password}, #{role})
+    </insert>
+    
+    <update id="updateUser">
+        UPDATE ssm.User SET email = #{email},  signature = #{signature} WHERE id = #{id}
+    </update>
+
+    <delete id="deleteUser">
+        DELETE FROM ssm.User WHERE id = #{id}
+    </delete>
+
+    <update id="updatePassword">
+        UPDATE ssm.User SET password = #{password} WHERE id = #{id}
+    </update>
+</mapper>
