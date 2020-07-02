@@ -12,7 +12,7 @@
     </form>
 
 
-<img src="/avatar.jpg">
+<img src="/images/avatar/${currentUser.avatar}">
 
 </body>
 </html>

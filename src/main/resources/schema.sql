@@ -46,3 +46,6 @@ ALTER TABLE `ssm`.`User`
 
 ALTER TABLE `ssm`.`Topic`
     ADD COLUMN `viewCount` INT NULL DEFAULT 0 AFTER `updatedTime`;
+
+ALTER TABLE `ssm`.`User`
+    CHANGE COLUMN `avatar` `avatar` VARCHAR(500) NULL DEFAULT 'avatar.jpg' ;

@@ -8,7 +8,7 @@
 
 
     <select id="selectAllTopicCommentByTopicId" resultType="kybmig.ssm.model.TopicCommentModel">
-        SELECT tc.*, u.username as userName FROM ssm.TopicComment tc JOIN ssm.User u ON tc.userId = u.id
+        SELECT tc.*, u.username as userName, u.avatar as userAvatar FROM ssm.TopicComment tc JOIN ssm.User u ON tc.userId = u.id
         WHERE tc.topicId = #{topicId}
     </select>
 

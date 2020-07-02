@@ -42,7 +42,7 @@
             <div class="inner">
                 <div class="user_card">
                     <div>
-                        <a class="user_avatar"><img src="/avatar.jpg"></a>
+                        <a class="user_avatar"><img src="/images/avatar/${currentUser.avatar}"></a>
                         <span class="user_name">
                                 <a class="dark" href="/user/${currentUser.username}">
                                     ${currentUser.username}
@@ -74,7 +74,7 @@
                       作者 <a href="/user/${topic.userName}">${topic.userName}</a>
                     </span>
                     <span>
-                      97 次浏览
+                      ${topic.viewCount}浏览
                     </span>
                     <span> 来自 分享</span>
                 </div>
@@ -105,10 +105,10 @@
                 <div class="cell reply_area reply_item">
                     <div class="author_content">
                         <a href="/user/${c.userName}" class="user_avatar">
-                            <img src="/avatar.jpg" title=${c.userName}>
+                            <img src="/images/avatar/${c.userAvatar}" title=${c.userName}>
                         </a>
                         <div class="user_info">
-                            <a class="dark reply_author" href="/user/${c.userName}">${c.userName}</a>
+                            <a class="dark reply_author" href="/static/images/avatar/avatar.jpg">${c.userName}</a>
                             <a class="reply_time">${c.createdTime?number_to_datetime}</a>
                         </div>
 

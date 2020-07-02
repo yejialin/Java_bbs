@@ -41,7 +41,7 @@
                 <div class="inner">
                     <div class="user_card">
                         <div>
-                            <a class="user_avatar"><img src="/avatar.jpg"></a>
+                            <a class="user_avatar"><img src="/images/avatar/${currentUser.avatar}"></a>
                             <span class="user_name">
                                 <a class="dark" href="/user/${currentUser.username}">
                                     ${currentUser.username}
@@ -75,7 +75,7 @@
                         <#list topics as t>
                             <div class="cell">
                                 <a class="user_avatar pull-left" href="/user/${t.userName}">
-                                    <img src="avatar.jpg" title="${t.userName}">
+                                    <img src="/images/avatar/${t.userAvatar}" title="${t.userName}">
                                 </a>
 
                                 <span class="reply_count pull-left">
@@ -88,7 +88,6 @@
                                     </span>
                                 </span>
                                 <a class="last_time pull-right">
-                                    <img class="user_small_avatar" src="/avatar.jpg">
                                     <span class="last_active_time">${t.createdTime?number_to_datetime}</span>
                                 </a>
 

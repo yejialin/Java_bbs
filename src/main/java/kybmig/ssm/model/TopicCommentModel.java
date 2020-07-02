@@ -10,6 +10,7 @@ public class TopicCommentModel extends BaseModel {
     private Long createdTime;
     private Long updatedTime;
     private String userName;
+    private String userAvatar;
 
     public Integer getId() {
         return id;
@@ -65,5 +66,13 @@ public class TopicCommentModel extends BaseModel {
 
     public void setUserName(String userName) {
         this.userName = userName;
+    }
+
+    public String getUserAvatar() {
+        return userAvatar;
+    }
+
+    public void setUserAvatar(String userAvatar) {
+        this.userAvatar = userAvatar;
     }
 }

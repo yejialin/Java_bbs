@@ -41,7 +41,7 @@
                 <div class="inner">
                     <div class="user_card">
                         <div>
-                            <a class="user_avatar"><img src="/avatar.jpg"></a>
+                            <a class="user_avatar"><img src="/images/avatar/${currentUser.avatar}"></a>
                             <span class="user_name"><a class="dark">${currentUser.username}</a></span>
                             <div class="space clearfix"></div>
                             <span class="signature">
@@ -69,7 +69,7 @@
                 </div>
                 <div class="inner userinfo">
                     <div class="user_big_avatar">
-                        <img src="/avatar.jpg">
+                        <img src="/images/avatar/${currentUser.avatar}">
                     </div>
                     <a class="dark">${user.username}</a>
                     <p class="col_fade">注册时间: ${user.createdTime?number_to_datetime}</p>
@@ -83,7 +83,7 @@
                 </div>
                 <#list recent_create_topics as t>
                     <div class="cell">
-                        <a class="user_avatar"><img src="/avatar.jpg"></a>
+                        <a class="user_avatar"><img src="/images/avatar/${t.userAvatar}"></a>
                         <span class="last_time pull-right">
                             <span class="last_active_time">${t.createdTime?number_to_datetime}</span>
                         </span>
@@ -103,7 +103,7 @@
                 </div>
                 <#list recent_join_topics as t>
                     <div class="cell">
-                        <a class="user_avatar"><img src="/avatar.jpg"></a>
+                        <a class="user_avatar"><img src="/images/avatar/${t.userAvatar}"></a>
                         <span class="last_time pull-right">
                             <span class="last_active_time">${t.createdTime?number_to_datetime}</span>
                         </span>

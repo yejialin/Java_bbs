@@ -41,7 +41,7 @@
             <div class="inner">
                 <div class="user_card">
                     <div>
-                        <a class="user_avatar"><img src="/avatar.jpg"></a>
+                        <a class="user_avatar"><img src="/images/avatar/${user.avatar}"></a>
                         <span class="user_name"><a class="dark">${user.username}</a></span>
                         <div class="space clearfix"></div>
                         <span class="signature">

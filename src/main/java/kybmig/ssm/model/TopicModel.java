@@ -13,6 +13,7 @@ public class TopicModel extends BaseModel {
 
     private ArrayList<TopicCommentModel> commentList;
     private String userName;
+    private String userAvatar;
 
     public Integer getId() {
         return id;
@@ -84,5 +85,13 @@ public class TopicModel extends BaseModel {
 
     public void setViewCount(Integer viewCount) {
         this.viewCount = viewCount;
+    }
+
+    public String getUserAvatar() {
+        return userAvatar;
+    }
+
+    public void setUserAvatar(String userAvatar) {
+        this.userAvatar = userAvatar;
     }
 }
