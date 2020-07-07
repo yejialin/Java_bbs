@@ -21,7 +21,7 @@
 
 ## 详细
 ### 登录与话题操作
-![登录与话题操作](https://github.com/yejialin/Java_bbs/blob/master/topic.gif)
+![登录与话题操作](topic.gif)
 
 ### 个人主页与设置
 ![个人主页与设置](home.gif)
